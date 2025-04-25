@@ -41,48 +41,48 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDSaMMJ_tF-lpv4NXfd9JGGzi-HtFWcZ0U',
-    appId: '1:301742765835:web:b35c2ae1d7fe5956cc540e',
-    messagingSenderId: '301742765835',
-    projectId: 'message-board-app-409d7',
-    authDomain: 'message-board-app-409d7.firebaseapp.com',
-    storageBucket: 'message-board-app-409d7.firebasestorage.app',
-    measurementId: 'G-R9QFTL4D8B',
+    apiKey: 'AIzaSyDQDJab6_sbaC6lCg3_R0WREphnWsUtElo',
+    appId: '1:478329961911:web:d2b3bcf1ce4f363bf97c32',
+    messagingSenderId: '478329961911',
+    projectId: 'message-board-app-cabfd',
+    authDomain: 'message-board-app-cabfd.firebaseapp.com',
+    storageBucket: 'message-board-app-cabfd.firebasestorage.app',
+    measurementId: 'G-FDLD0JM9D9',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC2PQL9nCBISUHgalf_mLZe6JoVHiQTZWk',
-    appId: '1:301742765835:android:499113769403a8bbcc540e',
-    messagingSenderId: '301742765835',
-    projectId: 'message-board-app-409d7',
-    storageBucket: 'message-board-app-409d7.firebasestorage.app',
+    apiKey: 'AIzaSyD9qmJPsyEfy7TC63URP-ClURG0aoZveZg',
+    appId: '1:478329961911:android:23cb6cc403918b70f97c32',
+    messagingSenderId: '478329961911',
+    projectId: 'message-board-app-cabfd',
+    storageBucket: 'message-board-app-cabfd.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA-RATxgd02GfytVm5KeHMEgoHwfB-CbEA',
-    appId: '1:301742765835:ios:b67afeb411c2c4a1cc540e',
-    messagingSenderId: '301742765835',
-    projectId: 'message-board-app-409d7',
-    storageBucket: 'message-board-app-409d7.firebasestorage.app',
-    iosBundleId: 'com.example.messageBoardApp',
+    apiKey: 'AIzaSyAk7SceECd1t03e2B84G7Bhp9Uqel_D_Ns',
+    appId: '1:478329961911:ios:3b416b1444824f56f97c32',
+    messagingSenderId: '478329961911',
+    projectId: 'message-board-app-cabfd',
+    storageBucket: 'message-board-app-cabfd.firebasestorage.app',
+    iosBundleId: 'com.example.messageboardApp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyA-RATxgd02GfytVm5KeHMEgoHwfB-CbEA',
-    appId: '1:301742765835:ios:b67afeb411c2c4a1cc540e',
-    messagingSenderId: '301742765835',
-    projectId: 'message-board-app-409d7',
-    storageBucket: 'message-board-app-409d7.firebasestorage.app',
-    iosBundleId: 'com.example.messageBoardApp',
+    apiKey: 'AIzaSyAk7SceECd1t03e2B84G7Bhp9Uqel_D_Ns',
+    appId: '1:478329961911:ios:3b416b1444824f56f97c32',
+    messagingSenderId: '478329961911',
+    projectId: 'message-board-app-cabfd',
+    storageBucket: 'message-board-app-cabfd.firebasestorage.app',
+    iosBundleId: 'com.example.messageboardApp',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDSaMMJ_tF-lpv4NXfd9JGGzi-HtFWcZ0U',
-    appId: '1:301742765835:web:d7c9d5cad6d69951cc540e',
-    messagingSenderId: '301742765835',
-    projectId: 'message-board-app-409d7',
-    authDomain: 'message-board-app-409d7.firebaseapp.com',
-    storageBucket: 'message-board-app-409d7.firebasestorage.app',
-    measurementId: 'G-EQ1R7CR5JR',
+    apiKey: 'AIzaSyDQDJab6_sbaC6lCg3_R0WREphnWsUtElo',
+    appId: '1:478329961911:web:ab94c4fcbbbf5714f97c32',
+    messagingSenderId: '478329961911',
+    projectId: 'message-board-app-cabfd',
+    authDomain: 'message-board-app-cabfd.firebaseapp.com',
+    storageBucket: 'message-board-app-cabfd.firebasestorage.app',
+    measurementId: 'G-V4M4F83TTD',
   );
 }
